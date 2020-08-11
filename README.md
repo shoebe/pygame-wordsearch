@@ -1,2 +1,2 @@
 # pygame-wordsearch
-A word search game that uses pygame. Made as a 12th grade compsci project. Run Main.py to start.
+12th grade compsci project. Run Main.py to start.
